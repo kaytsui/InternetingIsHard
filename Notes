@@ -1,0 +1,6 @@
+css-box-model
+
+I. Only margins collapse. Stick in a div element in between two block elements if you do not want to collapse the margins. Padding does NOT collapse.
+
+Semantics HTML
+    - Always make sure <section> elements have a header.
